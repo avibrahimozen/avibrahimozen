@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avibrahimozen
 - 👀 I’m interested learn programming.
-- 🌱 I’m currently learning Js
+- 🌱 I’m currently learning Js , Flutter #dart
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me avibrahimozen@gmail.com
 
